@@ -9,4 +9,4 @@ Be sure to include internet permissions in your manifest file. Then pushing and 
 
 In this example we "http put and get" data into a leaderboard in a Firebase URL under YourFirebaseURL/Winners.
 
-Check out Firebase's website for how to use the scalable real-time backend. http://www.firebase.com/
+Check out Firebase's website for how to use the scalable backend. http://www.firebase.com/
