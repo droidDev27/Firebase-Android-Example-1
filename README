@@ -1,0 +1,12 @@
+Firebase-Android-Example
+------------------------
+
+Firebase Android Example provides a simple example on how to store your data in Firebase from Android.
+
+Be sure to include internet permissions in your manifest file. Then pushing and retrieving data from your Firebase URL is simple using RESTful get and put requests. 
+
+*See FirebaseAndroidExampleActivity.java to change the URLs to your Firebase location 
+
+In this example we "http put and get" data into a leaderboard in a Firebase URL under YourFirebaseURL/Winners.
+
+Check out Firebase's website for how to use the scalable real-time backend. http://www.firebase.com/
